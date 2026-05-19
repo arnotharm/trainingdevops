@@ -30,7 +30,7 @@ size: 12px;
 # Ссылки 
 
 `[Yande](https://yandex/ru)` - [] тект ссылки, () сама ссылка | Итог: [YANDEX](yandex.ru)
-`<test@gmail.com> <www.vk.com>` - итог: <test@gmail.com> <www.vk.com/durov>
+`<test@gmail.com> < www.vk.com >` - итог: <test@gmail.com> <www.vk.com/durov>
 
 # Делаем из команд MD текст
 
@@ -62,4 +62,5 @@ ___
 - Первая при минусе
 - Вторая
 - Третья
-- 
+- му блоку Можно потом вернуться к первичному блок
+
