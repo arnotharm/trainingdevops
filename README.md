@@ -30,7 +30,7 @@ size: 12px;
 # Ссылки 
 
 `[Yande](https://yandex/ru)` - [] тект ссылки, () сама ссылка | Итог: [YANDEX](yandex.ru)
-`<test@gmail.com> < www.vk.com >` - итог: <test@gmail.com> <www.vk.com/durov>
+`<test@gmail.com> <www.vk.com>` - итог: <test@gmail.com> <www.vk.com/durov>
 
 # Делаем из команд MD текст
 
@@ -62,3 +62,18 @@ ___
 - Первая при минусе
 - Вторая
 - Третья
+
+## Таблицы
+| Заголовок | Заголовок | Заголовок |
+|-----------|-----------|-----------|
+|Текст 			| Текст			| Текст 		|
+|Текст 			| Текст			| Текст 		|
+|Текст 			| Текст			| Текст 		|
+|Текст 			| Текст			| Текст 		|
+
+## Смайлики
+
+`:smile:` :smile: 
+`:angry:` :angry: 
+`:apple:` :apple:
+`:green_apple:` :green_apple:
