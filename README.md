@@ -1,7 +1,3 @@
-
-# **Обучение на DevOps Инжинера**
-
-
 # Контроль версий или GIT / GitHub
 
 #### Этапы старта проекта:
@@ -11,4 +7,6 @@
 >![](https://bramus.github.io/ws2-sws-course-materials/assets/xx/git-remote.png)
 
 - Создание первого коммита - **git commit -m "Первый коммит"**
-- Подключение к удаленному репозиторию - **git remote add origin https://github.com/**
+- Подключение к удаленному репозиторию - **git remote add origin** **https://github.com/логин/репозиторий.git**
+- Отправля на github репозитороий - **git push origin main** (в зависимости от ветки , в нашем случаи это "main")
+___
