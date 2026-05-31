@@ -19,3 +19,10 @@
 * **``` git rm -f название_файла```** (в таком случаи файл удалиться из рабочей директории и из index)
 * **``` git rm -f --cached название_файла```** (в таком случи файл сохраниться в рабочей директории, но удалиться в index)
 * > *[Git: курс на YouTube](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+
+_____
+
+# Linux
+
+#### Поиск в системе linux (find, grep и т.д)
+
